@@ -11,26 +11,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=5eRfN4UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/rafaelha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rafael-haenel-61a07415a/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca
+  - name: Max Planck Institute for Solid State Research
+    url: https://www.mpi-stuttgart.mpg.de/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Joint PhD in Theoretical Condensed Matter Physics
+      institution: University of British Columbia & Max-Planck-Institute for Solid
+        State Research
+      year: 2023
     - course: MSc Theoretical Condensed Matter Physics
       institution: University of British Columbia
       year: 2019

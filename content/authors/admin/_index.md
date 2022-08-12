@@ -31,12 +31,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc Theoretical Condensed Matter Physics
+      institution: University of British Columbia
+      year: 2019
+    - course: BSc in Physics
+      institution: Technical University of Berlin
+      year: 2017
 superuser: true
 highlight_name: true
 title: Rafael Haenel

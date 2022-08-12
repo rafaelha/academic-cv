@@ -1,6 +1,6 @@
 ---
 role: Condensed Matter Physicist
-avatar_filename: rafa.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
